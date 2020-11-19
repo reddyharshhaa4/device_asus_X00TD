@@ -15,6 +15,7 @@ vendor.audio.dolby.ds2.hardbypass=false
 vendor.audio.feature.a2dp_offload.enable=false
 vendor.audio.feature.kpi_optimize.enable=false
 vendor.audio.flac.sw.decoder.24bit=true
+vendor.audio.hal.boot.timeout.ms=20000
 vendor.audio_hal.period_size=192
 vendor.audio.hw.aac.encoder=true
 vendor.audio.offload.buffer.size.kb=64

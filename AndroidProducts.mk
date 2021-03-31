@@ -1,13 +1,14 @@
 #
 # Copyright (C) 2020 The PixelExperience Project
+# Copyright (C) 2020-2021 Wave-OS
 #
 # SPDX-License-Identifier: Apache-2.0
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_X01AD.mk
+    $(LOCAL_DIR)/wave_X01AD.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_X01AD-user \
-    aosp_X01AD-userdebug \
-    aosp_X01AD-eng
+    wave_X01AD-user \
+    wave_X01AD-userdebug \
+    wave_X01AD-eng

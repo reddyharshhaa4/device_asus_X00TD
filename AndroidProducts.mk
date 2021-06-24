@@ -16,9 +16,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/wave_X01AD.mk
+    $(LOCAL_DIR)/wave_X00TD.mk
 
 COMMON_LUNCH_CHOICES := \
-    wave_X01AD-user \
-    wave_X01AD-userdebug \
-    wave_X01AD-eng
+    wave_X00TD-user \
+    wave_X00TD-userdebug \
+    wave_X00TD-eng
